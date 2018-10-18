@@ -1,0 +1,207 @@
+.header-left {
+    display: flex;
+    padding: 10px;
+}
+.header-right {
+    padding: 10px;
+}
+header {
+    background-image: url("../стирка/img/header1jpg.jpg");
+}
+.header-content-p  {
+    font-family: Gilroyextrabold;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.header-content {
+    color: blue;
+    font-family: Snell Roundhand;
+    font-style: italic;
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+.header-content p {
+    margin: 0px;
+}
+.header-logo img {
+    width: 50px;
+    height: 48px;
+    border-radius: 5px;
+}
+
+.row {
+    margin-right: unset;
+    margin-left: unset;
+}
+.service-header, .price-header, .footer-header {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    background-color: aquamarine;
+    border-radius: 25px;
+}
+.service-column-item {
+    text-align: center;
+    font-style: italic;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+.service-column-item h3 {
+    color: yellow;
+}
+.service-column-item-main {
+    font-size: 36px;
+    color: green;
+}
+.service-column-item-dop {
+    font-size: 12px;
+}
+.nav-tabs {
+    display: block !important;
+    text-align: center !important;
+}
+footer h3 {
+    text-align: center !important;
+}
+.work {
+    display: block !important;
+}
+.time {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    color: chocolate;
+}
+.day {
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    color: indigo;
+}
+.footer-img img {
+    width: 100%;
+}
+.footer-left {
+    display: block;
+}
+.footer-right {
+    display: block;
+}
+.header-info {
+    display: flex;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+}
+.header-info-tel {
+    margin-right: 20px;
+}
+.header-h1  h3{
+    background-color: yellow;
+    color: red;
+    font-size: 40px;
+}
+.nav-link {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.header-img img {
+    width: 25%;
+    height: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header-img {
+    background-color: aliceblue;
+    margin: 20px;
+}
+.header-img img {
+    margin: 10px;
+    padding: 0px;
+}
+.service-column-item-header {
+    display: flex;
+    padding: 10px;
+}
+.service-column-item-img img{
+    width: 50px;
+    height: 50px;
+}
+.service-column {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.service-column-dop {
+    text-align: center;
+}
+.service-column-dop-header {
+    text-align: center;
+}
+.service-text p {
+    margin: 5px;
+    font-size: 14px;
+}
+.service-content .nav {
+    display: unset;
+}
+.service-text {
+    padding: 0px !important;
+}
+main {
+    background-image: url("../стирка/img/service.jpg");
+    border-radius: 22px;
+}
+footer {
+    background-image: url("../стирка/img/footer.jpg");
+    border-radius: 20px;
+}
+.nav-item {
+    margin-right: 5px !important;
+}
+.nav-item a {
+    background-color: dodgerblue !important;
+    color: white;
+}
+li a.nav-link {
+    margin: 5px !important;
+}
+.service-column-item-h2 {
+    color: floralwhite;
+}
+.service-column-item-p {
+    color: firebrick;
+}
+.service-column-dop-header {
+    color: blueviolet;
+    padding-bottom: 10px;
+}
+.service-content {
+    color: white;
+}
+.adress {
+    font-style: italic;
+}
+.footer-left-content {
+    font-size: 20px;
+    font-style: italic;
+}
+.phone {
+    font-weight: bold;
+}
+.adress {
+    margin-top: 15px;
+}
+.service-column-item-dop {
+    color: whitesmoke;
+}
